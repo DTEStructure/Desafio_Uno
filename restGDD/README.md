@@ -9,4 +9,4 @@ El Mapping del servicio es "/GDD", recibe JSON y responde JSON utilizando un mé
 URL local : http://localhost:8080/GDD
 
 
-P.D.: En la ruta del proyecto se encuentran dos archivos JSON con REQUEST y RESPONSE de prueba.
+P.D.: En la misma ruta de este archivo se encuentran dos archivos JSON con REQUEST y RESPONSE de prueba.
